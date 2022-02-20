@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class sapxep {5
+public class sapxep {
 
 
     public static void main(String[] args) {
